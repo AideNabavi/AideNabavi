@@ -30,6 +30,7 @@
 ---
 
 ## 📫 Contact Me
+- **Gmail:** aidennabavi@gmail.com 
 - **Discord:** @aidennabavi  
 - **Telegram:** @AidenNabavi  
 - **Twitter:** [twitter.com/aidennabavi](https://twitter.com/)  
