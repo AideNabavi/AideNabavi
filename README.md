@@ -13,9 +13,10 @@ Python Developer(Artificial Intelligence Engineer) • Web3 Security Researcher
 ## 🛠 Skills & Languages
 
 <p align="left">
+  <img src="1.svg" alt="Python" width="80" height="80"/>
+  <img src="2.svg" alt="Ai" width="80" height="80"/>
   <img src="javascript.svg" alt="JavaScript" width="80" height="80"/>
   <img src="solidity.svg" alt="Solidity" width="80" height="80"/>
-  <img src="python.svg" alt="Python" width="80" height="80"/>
   <img src="rust.svg" alt="Rust" width="80" height="80"/>
   <img src="foundry.png" alt="Foundry" width="80" height="80"/>
   <img src="assembly.svg" alt="Assembly" width="80" height="80"/>
