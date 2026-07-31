@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Aiden</h1>
 
 <h3 align="center">
-Python Developer • Artificial Intelligence Engineer • Web3 Security Researcher
+Python Developer(Artificial Intelligence Engineer) • Web3 Security Researcher
 </h3>
 
 ---
