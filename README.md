@@ -4,6 +4,10 @@
 
 <h1 align="center">👋 Hi, I'm Aiden</h1>
 
+<h3 align="center">
+Python Developer • Artificial Intelligence Engineer • Web3 Security Researcher
+</h3>
+
 ---
 
 ## 🛠 Skills & Languages
@@ -21,20 +25,23 @@
 
 
 ---
+## 🤖 My Expertise
 
-## 🔐 My Expertise
-- 📍 Smart Contract Security  
-- 📍 Web3 Reasercher & Auditor & Developer  
-- 📍 Web2 Raesercher  
+- 🐍 Python Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning
+- 🔐 Smart Contract Security
+- 🌐 Web3 Researcher, Auditor & Developer
+- 💻 Web2 Researcher
 
 ---
 
 ## 📫 Contact Me
-- **Gmail:** aidennabavi@gmail.com 
-- **Discord:** @aidennabavi  
-- **Telegram:** @AidenNabavi  
-- **Twitter:** [twitter.com/aidennabavi](https://twitter.com/)  
-- **instagram:** [instagram.com/aidennabavi](https://instagram.com)  
+- **Gmail:** aidenabavi@gmail.com 
+- **Discord:** @aidenabavi  
+- **Telegram:** @AideNabavi  
+- **Twitter:** [twitter.com/aidenabavi](https://twitter.com/)  
+- **instagram:** [instagram.com/aidenabavi](https://instagram.com)  
 
 ---
 
