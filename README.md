@@ -29,9 +29,12 @@ Python Developer(Artificial Intelligence Engineer) • Web3 Security Researcher
 ---
 ## 🤖 My Expertise
 
-- 🐍 Python Development
+
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning
+- 🐍 Python Development
+- 👾 game development
+- ⌨️ Bot development
 - 🔐 Smart Contract Security
 - 🌐 Web3 Researcher, Auditor & Developer
 - 💻 Web2 Researcher
