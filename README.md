@@ -15,6 +15,7 @@ Python Developer(Artificial Intelligence Engineer) • Web3 Security Researcher
 
 <p align="left">
   <img src="2.png" alt="AI" width="80" height="80"/>
+  <img src="flutter.png" alt="flutter" width="80" height="80"/>
   <img src="python.svg" alt="Python" width="80" height="80"/>
   <img src="bot.png" alt="AI" width="80" height="80"/>
   <img src="game.png" alt="AI" width="80" height="80"/>
@@ -33,9 +34,10 @@ Python Developer(Artificial Intelligence Engineer) • Web3 Security Researcher
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning
-- 🐍 Python Development
+- 🐍 Python Development ...
 - 👾 game development
-- ⌨️ writing tools
+- 📲 App development
+- ⌨️ writing tools(bot)
 - 🔐 Smart Contract Security
 - 🌐 Web3 Researcher, Auditor & Developer
 - 💻 Web2 Researcher
