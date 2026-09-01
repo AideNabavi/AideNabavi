@@ -19,9 +19,9 @@ Python Developer(Artificial Intelligence Engineer) • Web3 Security Researcher
   <img src="python.svg" alt="Python" width="80" height="80"/>
   <img src="bot.png" alt="AI" width="80" height="80"/>
   <img src="game.png" alt="AI" width="80" height="80"/>
-  <img src="solidity.svg" alt="Solidity" width="80" height="80"/>
+  <img src="sol.png" alt="Solidity" width="80" height="80"/>
   <img src="javascript.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="rust.svg" alt="Rust" width="80" height="80"/>
+  <img src="app.svg" alt="Application" width="80" height="80"/>
   <img src="foundry.png" alt="Foundry" width="80" height="80"/>
   <img src="assembly.svg" alt="Assembly" width="80" height="80"/>
   <img src="hardhat.png" alt="hardhat" width="80" height="80"/>
